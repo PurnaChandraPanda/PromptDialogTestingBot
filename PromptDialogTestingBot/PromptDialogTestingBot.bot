@@ -1,0 +1,15 @@
+{
+    "name": "PromptDialogTestingBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+      {
+        "id": "PromptDialogTestingBot",
+        "name": "PromptDialogTestingBot",
+        "type": "endpoint",
+        "appId": "",
+        "appPassword": "",
+        "endpoint": "http://localhost:3978/api/messages"
+      }
+    ]
+}
