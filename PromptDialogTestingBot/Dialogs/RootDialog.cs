@@ -32,7 +32,7 @@ namespace PromptDialogTestingBot.Dialogs
                 // Show "reset" question without yes/ no option, and allow pattern to read
                 //ResetOptionWithoutYesNoPattern(context);
 
-                // Show "reset" option with choice
+                // Show "reset" question option with choice
                 //ResetOptionWithChoice(context);
             }
             else
