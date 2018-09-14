@@ -49,7 +49,7 @@ Show reset question with yes/ no option, and accept yes/ no only.
  ````
  
 ### Output
-     ![reset with yes-no](Images/resetwithchoice.png)
+     ![reset with yes-no](https://github.com/PurnaChandraPanda/PromptDialogTestingBot/blob/master/Images/resetwithchoice.png)
  
  
 ### Scenario - 2
