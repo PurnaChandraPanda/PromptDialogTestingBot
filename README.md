@@ -233,6 +233,8 @@ Show reset question with options as a "choice".
 ![reset with choice](Images/resetwithchoice.png) 
 
 
+--
+
 
 Please clone the code and have fun!
 
