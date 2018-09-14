@@ -33,7 +33,7 @@ Show reset question with yes/ no option, and accept yes/ no only.
             if (confirm)
             {
                 this.count = 1;
-                await context.PostAsync("Reset count.");
+                await context.PostAsync("Reset count."); 
             }
             else
             {
